@@ -14,3 +14,5 @@ main/overrides/main.html
  
 4.  run github action
 
+
+https://docs.astro.build/en/guides/deploy/github/
